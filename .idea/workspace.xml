@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="811cfa6d-287e-4f2a-aa1b-4d03ad12d82a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +34,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682363774821</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto inicial de prueba IS">
+      <created>1682364138520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682364138520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto inicial de prueba IS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto inicial de prueba IS" />
   </component>
 </project>
